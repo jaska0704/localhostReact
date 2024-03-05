@@ -1,0 +1,38 @@
+{
+  "users": [],
+  "banner": [],
+  "brand": [
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
+      "title": "MI"
+    }
+  ],
+
+  "category": [
+    {
+      "id": 1,
+      "title": "Смартфоны и планшеты",
+      "datakey":"tel",
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg"
+    }
+  ],
+  "tel": [
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 660,
+      "id": 1
+    }
+  ],
+  "tv": [
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 660,
+      "id": 1
+    }
+  ]
+}
